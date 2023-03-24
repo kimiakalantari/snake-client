@@ -16,11 +16,6 @@ Before you can run this client, you will need to be running the server side whic
 This game is inspired by the game [Snek](https://store.steampowered.com/app/765590/Coop_SNEK_Online/) created by [Tania Rascia](https://www.taniarascia.com/). The server code for this game was not written from scratch - it is a refashioned version of Rascia's game.
 
 
-## Final Product
-
-![snek](https://user-images.githubusercontent.com/84409001/130310715-ec05e760-83a2-44eb-8d83-851c685f44d7.png)
-
-
 ## Instructions
 
 - Run the development snake client using the `node play.js` command.
